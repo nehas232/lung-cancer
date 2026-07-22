@@ -1,0 +1,18 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Data & model artifacts (usually too large / private for git)
+data/raw/*
+data/processed/*
+models_saved/*.pth
+outputs/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!models_saved/.gitkeep
+!outputs/.gitkeep
+
+.env
+.DS_Store

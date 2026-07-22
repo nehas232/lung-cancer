@@ -1,0 +1,5 @@
+image_path,label,split
+data/raw/lung-cancer-xray/chest_xray/train/Cancer/img_0001.jpg,Cancer,train
+data/raw/lung-cancer-xray/chest_xray/train/NORMAL/img_0002.jpg,NORMAL,train
+data/raw/lung-cancer-xray/chest_xray/val/Cancer/img_0003.jpg,Cancer,val
+...
